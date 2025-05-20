@@ -1,0 +1,4 @@
+
+const char *whoami() {
+    return "I am libbar";
+}
